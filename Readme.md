@@ -1,6 +1,6 @@
 
 * Still In Programing
-* [Chinese Version Readme(中文版说明)](#readme-chinese-version)
+* [Chinese Version Readme(中文版说明)](#chinese-version-readme)
 
 ---
 
@@ -17,7 +17,7 @@ How to use
 ---------------
 
 * [Quick Start Guide](doc/install.md)
-* [TODO List](todo_list.md)
+* [TODO List](doc/todo_list.md)
 
 ---
 
@@ -45,7 +45,7 @@ evernote里的内容如何能够同步的发布到wiki/博客里呢？
 ---------------------
 
 * [Quick Start Guide](doc/install.md)
-* [TODO List](todo_list.md)
+* [TODO List](doc/todo_list.md)
 
 
 
